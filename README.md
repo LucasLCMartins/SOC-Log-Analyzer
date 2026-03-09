@@ -20,4 +20,4 @@ Este projeto é uma ferramenta de automação para analistas de **SOC (Security 
 ## 📖 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/LucasLCMartins/Projeto-SOC.git](https://github.com/LucasLCMartins/Projeto-SOC.git)
+   git clone [git clone https://github.com/LucasLCMartins/log-threat-analyzer.git)
