@@ -4,7 +4,7 @@ import json
 import csv
 
 API_KEY = "SUA_CHAVE_AQUI"  # Substitua pela sua chave da AbuseIPDB
-TELEGRAM_TOKEN = "SEU_TOKEN_AQUI"
+TELEGRAM_TOKEN = "SEU_TOKEN_AQUI" # substitua pelo seu token do bot do Telegram
 CHAT_ID = "seu_chat_id_aqui"  # Substitua pelo seu chat ID do Telegram
 LOG_FILE = 'access.log'
 
