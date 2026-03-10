@@ -2,7 +2,7 @@ import re
 import requests
 import json
 
-API_KEY = "Sua chave API"
+API_KEY = "SUA KEY AQUI"  # Substitua pela sua chave da AbuseIPDB
 LOG_FILE = 'access.log'
 
 def extrair_ips(arquivo):
@@ -71,7 +71,3 @@ def salvar_relatorio(resultados):
         writer.writerow(['IP', 'Confiança de Abuso (%)', 'Tipo de Uso', 'Status'])
         writer.writerows(resultados)
     print("\n[+] Relatório 'relatorio_seguranca.csv' gerado com sucesso!")
-
-# No seu loop principal, crie uma lista 'dados_finais' e chame a função:
-# dados_finais.append([ip, score, tipo, status])
-# salvar_relatorio(dados_finais)
