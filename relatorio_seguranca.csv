@@ -1,0 +1,51 @@
+IP,Score %,Tipo,Pais,Status
+104.26.12.31,0,Content Delivery Network,US,✅ SEGURO
+8.8.8.8,0,Content Delivery Network,US,✅ SEGURO
+167.99.232.12,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+157.240.222.35,0,Commercial,BR,✅ SEGURO
+114.119.131.222,0,Data Center/Web Hosting/Transit,SG,✅ SEGURO
+185.220.101.10,100,Commercial,DE,⚠️ MALICIOSO
+89.248.165.141,0,Data Center/Web Hosting/Transit,NL,✅ SEGURO
+94.102.49.190,0,Data Center/Web Hosting/Transit,NL,✅ SEGURO
+45.147.229.177,0,Data Center/Web Hosting/Transit,DE,✅ SEGURO
+185.156.73.53,0,Fixed Line ISP,NL,✅ SEGURO
+192.168.1.1,0,Reserved,,✅ SEGURO
+141.98.10.19,19,Data Center/Web Hosting/Transit,LT,✅ SEGURO
+200.147.67.142,0,Commercial,BR,✅ SEGURO
+193.142.146.162,0,Data Center/Web Hosting/Transit,NL,✅ SEGURO
+80.94.95.234,100,Fixed Line ISP,RO,⚠️ MALICIOSO
+77.247.110.150,0,Data Center/Web Hosting/Transit,NL,✅ SEGURO
+45.143.203.131,0,Data Center/Web Hosting/Transit,RU,✅ SEGURO
+52.149.21.60,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+146.190.134.150,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+20.112.250.133,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+34.117.186.192,0,Content Delivery Network,US,✅ SEGURO
+31.13.85.36,0,Commercial,BR,✅ SEGURO
+185.224.128.81,0,Data Center/Web Hosting/Transit,NL,✅ SEGURO
+54.239.28.25,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+1.1.1.1,0,Content Delivery Network,AU,✅ SEGURO
+23.227.38.65,0,Content Delivery Network,CA,✅ SEGURO
+13.107.42.14,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+179.43.155.122,0,Data Center/Web Hosting/Transit,CH,✅ SEGURO
+172.217.17.4,0,Data Center/Web Hosting/Transit,ES,✅ SEGURO
+185.191.171.12,100,Commercial,US,⚠️ MALICIOSO
+91.240.118.221,0,Data Center/Web Hosting/Transit,HK,✅ SEGURO
+43.153.221.144,0,Data Center/Web Hosting/Transit,SG,✅ SEGURO
+112.85.42.187,0,Fixed Line ISP,CN,✅ SEGURO
+151.101.1.69,0,Content Delivery Network,US,✅ SEGURO
+117.21.191.154,0,Fixed Line ISP,CN,✅ SEGURO
+162.158.158.12,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+193.163.125.12,100,Commercial,GB,⚠️ MALICIOSO
+185.176.222.11,0,Data Center/Web Hosting/Transit,LV,✅ SEGURO
+103.145.254.122,0,Fixed Line ISP,VN,✅ SEGURO
+64.233.190.100,0,Data Center/Web Hosting/Transit,CL,✅ SEGURO
+185.220.101.25,100,Commercial,DE,⚠️ MALICIOSO
+194.26.135.155,0,Fixed Line ISP,RU,✅ SEGURO
+142.250.191.206,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+212.192.241.13,0,Data Center/Web Hosting/Transit,AT,✅ SEGURO
+185.196.220.80,0,Data Center/Web Hosting/Transit,DE,✅ SEGURO
+5.188.62.144,0,Data Center/Web Hosting/Transit,RU,✅ SEGURO
+209.197.3.8,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
+185.209.160.12,0,Data Center/Web Hosting/Transit,RU,✅ SEGURO
+127.0.0.1,0,Reserved,,✅ SEGURO
+208.67.222.222,0,Data Center/Web Hosting/Transit,US,✅ SEGURO
